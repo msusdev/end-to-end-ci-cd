@@ -1,0 +1,10 @@
+title: 'Build end-to-end CI/CD capabilities with GitHub or Azure DevOps'
+remote_theme: azure-immersion/workshop-jekyll-theme
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
