@@ -31,8 +31,8 @@ You can create and set up workflows to build, test, and deploy your code from yo
 | Topic | Presentation | YouTube |
 | ---: | :--- | :--- |
 | Introduction to Azure Pipelines | [introduction-azure-pipelines](presentations/introduction-azure-pipelines.md) | [youtu.be/-l3yVDeuv-4](https://youtu.be/-l3yVDeuv-4) |
-| Automatically build and test your code with Azure Pipelines | [integrate-azure-pipelines](presentations/integrate-azure-pipelines.md) | [youtu.be/qCVbl9YtEII](https://youtu.be/qCVbl9YtEII) |
-| Deploy your code to Azure with Azure Pipelines | [deploy-azure-pipelines](presentations/deploy-azure-pipelines.md) | [youtu.be/RModczkUz8U](https://youtu.be/RModczkUz8U) |
+| Automatically build and test your code with Azure Pipelines | [integrate-azure-pipelines](presentations/integrate-azure-pipelines.md) | [youtu.be/oS52MDTe2mo](https://youtu.be/oS52MDTe2mo) |
+| Deploy your code to Azure with Azure Pipelines | [deploy-azure-pipelines](presentations/deploy-azure-pipelines.md) | [youtu.be/nQb3jie2nmU](https://youtu.be/nQb3jie2nmU) |
 
 #### Happy Hour
 
